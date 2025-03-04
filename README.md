@@ -343,4 +343,4 @@ This work is adapted from:
 
 Your Name - vishnuprasad@sjmsom.in
 
-Project Link: [https://github.com/viznuv/magc-quick-commerce](https://github.com/viznuv/magc-quick-commerce)
+Project Link: [https://github.com/viznuv/magc-quick-commerce](https://github.com/viznuv/Quick-commerce-dynamic-pricing)
